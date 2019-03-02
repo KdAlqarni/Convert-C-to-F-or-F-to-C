@@ -27,24 +27,6 @@ public class CtoF {
         else{
             System.out.println("Invaild Input!!\n");
         }
-
-        // double Cels;
-        // double Fah;
-        // for (double i = 40; i >=32; i--){
-        //     Cels = i;
-        //     Fah = (9.0/5)*Cels+32;
-        //     System.out.printf("%-5.1f \t \t%-5.1f\n", Cels, Fah);
-        // }
-        // System.out.println();
-        // System.out.println("Fahrenheit\t\t\tCelsius \t");
-
-        // for (double i = 120; i >= 30; i = i-10){
-        //     Fah = i;
-        //     Cels = (5.0/9)*(Fah -32);
-        //     System.out.printf("%-5.1f \t\t\t\t%-5.1f\n", Fah, Cels);
-
-        // }
-
     }
 }
 
